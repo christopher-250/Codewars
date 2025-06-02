@@ -23,3 +23,4 @@ function getIssuer(number) {
   
   return "Unknown";
 }
+console.log(getIssuer("4222222222222"));
